@@ -1,2 +1,3 @@
-# simple-demo
-simple demo repository git course
+# simple Example Repository
+
+This is just example repo for training purposes.
